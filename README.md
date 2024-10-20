@@ -14,4 +14,5 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Nicholas Wheat
+
